@@ -70,4 +70,4 @@ social:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} 제 이력서를 PDF로 다운로드 하세요!{{< staticref "uploads/resume.pdf" "newtab" >}}다운로드{{< /staticref >}} 
+{{< icon name="download" pack="fas" >}} 제 이력서를 PDF로 다운로드 하세요! {{< staticref "uploads/resume.pdf" "newtab" >}}다운로드{{< /staticref >}} 
