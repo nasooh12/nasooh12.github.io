@@ -68,6 +68,4 @@ social:
 
 전북대학교 컴퓨터인공지능학과 이수형입니다. 저의 관심분야는 web Full-stack develop 입니다. 저는 현재 전북대학교 컴퓨터인공지능학부 학술 동아리인 ALPS의 부원으로 소속되어 팀원들과 매 주 알고리즘, 자료구조를 함께 학습하며 코딩테스트 문제를 푸는 활동하고 있습니다. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 제 이력서를 PDF로 다운로드 하세요! {{< staticref "uploads/이수형이력서임시.pdf" "newtab" >}}다운로드{{< /staticref >}} {{< icon name="download" pack="fas" >}}
