@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 이수형 개발자
+title: 이수형
 
 # Is this the primary user of the site?
 superuser: true
