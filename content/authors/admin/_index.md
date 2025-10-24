@@ -13,7 +13,7 @@ status:
   icon: 🧑🏼‍💻
 
 # Organizations/Affiliations
-organizations: 전북대학교 컴퓨터인공지능학부 
+#organizations:
 #- name: 腾讯
 #  url: ""
 
