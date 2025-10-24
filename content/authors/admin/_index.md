@@ -20,10 +20,10 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: 저의 관심분야는 웹/앱 개발을 비롯한 서비스 분야입니다.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- 웹 프론트엔드 개발
+- 웹 풀스택 개발 후 배포
+- 게임 개발
 
 #education:
 #  courses:
