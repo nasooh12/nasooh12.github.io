@@ -13,8 +13,8 @@ status:
   icon: 🧑🏼‍💻
 
 # Organizations/Affiliations
-organizations: 전북대학교 컴퓨터인공지능학부
-- name: 이수형
+organizations: 전북대학교 컴퓨터인공지능학부 
+#- name: 腾讯
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
