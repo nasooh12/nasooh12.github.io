@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 저의 관심분야는 웹/앱 개발을 비롯한 서비스 분야입니다.
 
 #interests:
 #- Artificial Intelligence
