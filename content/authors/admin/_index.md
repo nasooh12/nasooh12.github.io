@@ -6,7 +6,7 @@ title: 이수형 개발자
 superuser: true
 
 # Role/position
-role: ''
+role: 개발자
 
 # Status emoji
 status:
