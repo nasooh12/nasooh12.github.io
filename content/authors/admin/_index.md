@@ -25,11 +25,11 @@ interests:
 - 웹 풀스택 개발 후 배포
 - 게임 개발
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+education:
+  courses:
+  - course: 컴퓨터인공지능 학사 과정
+    institution: 전북대학교
+    year: 2023
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
