@@ -9,6 +9,15 @@ headless: true
 weight: 10
 
 author: admin
+
+skills:
+  - Web
+  - React
+  - SQL
+  - Vue
+  - C++
+  - Java
+  
 #design:
 #  background:
 #    color: '#090a0b'
