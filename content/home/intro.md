@@ -10,14 +10,14 @@ weight: 10
 
 author: admin
 
-skills:
+interests:
   - Web
   - React
   - SQL
   - Vue
   - C++
   - Java
-  
+
 #design:
 #  background:
 #    color: '#090a0b'
