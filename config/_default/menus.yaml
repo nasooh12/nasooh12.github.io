@@ -10,3 +10,4 @@ main:
   - name: 이력서
     url: about/
     weight: 20
+  
