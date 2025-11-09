@@ -24,5 +24,3 @@ author: admin
 Please check my [Resume](/en/about/) and portfolio below. 💁🏼
 
 
-
-아래에서 제 [이력서](/about/)와 포트폴리오를 확인하세요.💁🏼
