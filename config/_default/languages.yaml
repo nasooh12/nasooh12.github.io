@@ -17,6 +17,21 @@ en:
     description: Site description in English...
   menu:
     main:
-      - name: resume
-        url: '#about'
+      - name: Home
+        url: /en/
+        weight: 10
+      - name: Resume
+        url: /en/about/
+        weight: 20
+      - name: Library
+        url: /en/library/
+        weight: 30
+        identifier: library
+      - name: 'Library/Blog'
+        url: /en/post/
+        parent: library
         weight: 1
+      - name: 'Library/Tutorial'
+        url: /en/tutorial/
+        parent: library
+        weight: 2
