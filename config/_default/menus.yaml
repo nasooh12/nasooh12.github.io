@@ -7,9 +7,11 @@ main:
   - name: Home
     url: /
     weight: 10
+
   - name: 이력서
-    url: about/
+    url: /about/
     weight: 20
+
   - name: 자료실
     url: /library/
     weight: 30
@@ -22,3 +24,11 @@ main:
     url: /tutorial/
     parent: library
     weight: 2
+
+  - name: 프로젝트
+    url: /project/
+    weight: 40
+
+  - name: 연락처
+    url: /contact/
+    weight: 50

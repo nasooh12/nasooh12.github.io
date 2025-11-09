@@ -1,5 +1,5 @@
 ---
-title: 자료실
-summary: 유용한 자료와 튜토리얼을 모아둔 공간입니다.
+title: library
+summary: It's a space for useful materials and tutorials.
 ---
-이 페이지에서는 블로그와 튜토리얼 자료를 모아볼 수 있습니다.
+This page provides a collection of blog and tutorial materials.
