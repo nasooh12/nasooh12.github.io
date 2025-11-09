@@ -17,6 +17,6 @@ en:
     description: Site description in English...
   menu:
     main:
-      - name: soohyeong Lee
+      - name: resume
         url: '#about'
         weight: 1
