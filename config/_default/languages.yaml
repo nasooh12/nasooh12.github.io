@@ -12,7 +12,7 @@ ko:
 en:
   languageCode: en
   contentDir: content/en
-  title: en title!
+  title: soohyoung dev profile
   params:
     description: Site description in English...
   menu:
