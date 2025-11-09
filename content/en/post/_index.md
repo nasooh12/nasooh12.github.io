@@ -1,6 +1,4 @@
 ---
-title: Soohyoung Lee
-superuser: true
-role: Developer
+title: 블로그
+summary: 포스트 모음
 ---
-English profile goes here.
