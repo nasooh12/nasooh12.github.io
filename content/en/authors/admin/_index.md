@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 이수형
+title: Soohyoung Lee
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Web/App Full-Stack 지망 개발자
+role: Web/App Full-Stack an aspiring developer
 
 # Status emoji
 status:
@@ -18,17 +18,17 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 저의 관심분야는 웹/앱 개발을 비롯한 서비스 분야입니다.
+bio: My field of interest is in the service field, including web/app development.
 
 interests:
-- 웹 프론트엔드 개발
-- 웹 풀스택 개발
-- 게임 개발
+- Web front-end development
+- Web Full Stack Development
+- game development
 
 education:
   courses:
-  - course: 컴퓨터인공지능 학사 과정
-    institution: 전북대학교
+  - course: Bachelor of Science in Computer & Artificial Intelligence Engineering
+    institution: Jeonbuk National University
     year: 2023
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
@@ -66,6 +66,6 @@ social:
 #email: ""
 ---
 
-전북대학교 컴퓨터인공지능학과 이수형입니다. 저의 관심분야는 web Full-stack develop 입니다. 저는 현재 전북대학교 컴퓨터인공지능학부 학술 동아리인 ALPS의 부원으로 소속되어 팀원들과 매 주 알고리즘, 자료구조를 함께 학습하며 코딩테스트 문제를 푸는 활동하고 있습니다. 
+I am Lee Soo-hyung from Chonbuk National University, majoring in computer artificial intelligence. My field of interest is web full-stack development. I am currently a member of the ALPS, an academic club of the Department of Computer Artificial Intelligence of Chonbuk National University, and I am working with my team members to solve coding test problems by learning algorithms and data structures every week.
 
-제 이력서를 PDF로 다운로드 하세요! {{< staticref "uploads/이수형이력서임시.pdf" "newtab" >}}다운로드{{< /staticref >}} {{< icon name="download" pack="fas" >}}
+Download my resume as a PDF! {{< staticref "uploads/이수형이력서임시.pdf" "newtab" >}}Download{{< /staticref >}} {{< icon name="download" pack="fas" >}}
