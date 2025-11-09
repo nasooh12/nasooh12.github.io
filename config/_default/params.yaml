@@ -95,8 +95,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: 'google'
+    api_key: 'google/mapbox'
     zoom: 15
 
 extensions:
