@@ -2,49 +2,23 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
-ko:
-  languageCode: ko
-  menu:
-    main:
-      - name: Home
-        url: /
-        weight: 10
-      - name: 이력서
-        url: /about/
-        weight: 20
-      - name: 자료실
-        url: /library/
-        weight: 30
-        identifier: library
-      - name: '자료실/블로그'
-        url: /post/
-        parent: library
-        weight: 1
-      - name: '자료실/튜토리얼'
-        url: /tutorial/
-        parent: library
-        weight: 2
 
-en:
-  languageCode: en
-  contentDir: content/en
-  menu:
-    main:
-      - name: Home
-        url: /en/
-        weight: 10
-      - name: Resume
-        url: /en/about/
-        weight: 20
-      - name: Library
-        url: /en/library/
-        weight: 30
-        identifier: library
-      - name: 'Library/Blog'
-        url: /en/post/
-        parent: library
-        weight: 1
-      - name: 'Library/Tutorial'
-        url: /en/tutorial/
-        parent: library
-        weight: 2
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: 이력서
+    url: about/
+    weight: 20
+  - name: 자료실
+    url: /library/
+    weight: 30
+    identifier: library
+  - name: '자료실/블로그'
+    url: /post/
+    parent: library
+    weight: 1
+  - name: '자료실/튜토리얼'
+    url: /tutorial/
+    parent: library
+    weight: 2
