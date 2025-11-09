@@ -1,3 +1,4 @@
 ---
-type: widget_page
+title: About
 ---
+This is my resume/about page in English.
